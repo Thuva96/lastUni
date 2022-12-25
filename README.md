@@ -19,3 +19,6 @@ Then, change admin's role as 'admin' in database. By  default, it is 'doctor'.
 Step 05 :- Doctor register
 
 Create a account for doctor using register page.
+
+Step06:- Create a Mailtrap account
+Configure env file with mailtrap Credentials
